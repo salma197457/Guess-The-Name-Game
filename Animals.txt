@@ -1,0 +1,26 @@
+Cat
+Dog
+Elephant
+Mouse
+Lion 
+Tiger
+Lizard
+Turtle
+Giraffe
+Zebra
+Kangaroo
+Panda
+Penguin
+Dolphin
+Tiger
+Koala
+Hippopotamus
+Cheetah
+Gorilla
+Polar Bear
+Koala
+Leopard
+Kangaroo
+Sloth
+Parrot
+Ostrich

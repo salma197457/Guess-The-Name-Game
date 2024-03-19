@@ -1,0 +1,1068 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema 
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Player2Score.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Player2Score.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="Player2Score.Location" type="System.Drawing.Point, System.Drawing">
+    <value>110, 61</value>
+  </data>
+  <data name="Player2Score.Size" type="System.Drawing.Size, System.Drawing">
+    <value>22, 25</value>
+  </data>
+  <data name="Player2Score.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="Player2Score.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;Player2Score.Name" xml:space="preserve">
+    <value>Player2Score</value>
+  </data>
+  <data name="&gt;&gt;Player2Score.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Player2Score.Parent" xml:space="preserve">
+    <value>Score</value>
+  </data>
+  <data name="&gt;&gt;Player2Score.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Player1Score.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Player1Score.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="Player1Score.Location" type="System.Drawing.Point, System.Drawing">
+    <value>110, 28</value>
+  </data>
+  <data name="Player1Score.Size" type="System.Drawing.Size, System.Drawing">
+    <value>22, 25</value>
+  </data>
+  <data name="Player1Score.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="Player1Score.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;Player1Score.Name" xml:space="preserve">
+    <value>Player1Score</value>
+  </data>
+  <data name="&gt;&gt;Player1Score.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Player1Score.Parent" xml:space="preserve">
+    <value>Score</value>
+  </data>
+  <data name="&gt;&gt;Player1Score.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="Player1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Player1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="Player1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 28</value>
+  </data>
+  <data name="Player1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 25</value>
+  </data>
+  <data name="Player1.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="Player1.Text" xml:space="preserve">
+    <value>Player1:</value>
+  </data>
+  <data name="&gt;&gt;Player1.Name" xml:space="preserve">
+    <value>Player1</value>
+  </data>
+  <data name="&gt;&gt;Player1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Player1.Parent" xml:space="preserve">
+    <value>Score</value>
+  </data>
+  <data name="&gt;&gt;Player1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Player2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Player2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="Player2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 61</value>
+  </data>
+  <data name="Player2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 25</value>
+  </data>
+  <data name="Player2.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="Player2.Text" xml:space="preserve">
+    <value>Player2:</value>
+  </data>
+  <data name="&gt;&gt;Player2.Name" xml:space="preserve">
+    <value>Player2</value>
+  </data>
+  <data name="&gt;&gt;Player2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Player2.Parent" xml:space="preserve">
+    <value>Score</value>
+  </data>
+  <data name="&gt;&gt;Player2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="Score.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11.25pt</value>
+  </data>
+  <data name="Score.Location" type="System.Drawing.Point, System.Drawing">
+    <value>550, 33</value>
+  </data>
+  <data name="Score.Size" type="System.Drawing.Size, System.Drawing">
+    <value>282, 94</value>
+  </data>
+  <data name="Score.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="Score.Text" xml:space="preserve">
+    <value>Score</value>
+  </data>
+  <data name="&gt;&gt;Score.Name" xml:space="preserve">
+    <value>Score</value>
+  </data>
+  <data name="&gt;&gt;Score.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Score.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Score.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="Player_turn.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Player_turn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe Print, 14.25pt</value>
+  </data>
+  <data name="Player_turn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 57</value>
+  </data>
+  <data name="Player_turn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 33</value>
+  </data>
+  <data name="Player_turn.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="Player_turn.Text" xml:space="preserve">
+    <value>Player_turn</value>
+  </data>
+  <data name="&gt;&gt;Player_turn.Name" xml:space="preserve">
+    <value>Player_turn</value>
+  </data>
+  <data name="&gt;&gt;Player_turn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Player_turn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Player_turn.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Keyboard.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="a.Location" type="System.Drawing.Point, System.Drawing">
+    <value>31, 54</value>
+  </data>
+  <data name="a.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="a.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="a.Text" xml:space="preserve">
+    <value>A</value>
+  </data>
+  <data name="&gt;&gt;a.Name" xml:space="preserve">
+    <value>a</value>
+  </data>
+  <data name="&gt;&gt;a.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;a.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;a.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="m.Location" type="System.Drawing.Point, System.Drawing">
+    <value>315, 86</value>
+  </data>
+  <data name="m.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="m.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="m.Text" xml:space="preserve">
+    <value>M</value>
+  </data>
+  <data name="&gt;&gt;m.Name" xml:space="preserve">
+    <value>m</value>
+  </data>
+  <data name="&gt;&gt;m.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;m.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;m.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="p.Location" type="System.Drawing.Point, System.Drawing">
+    <value>413, 22</value>
+  </data>
+  <data name="p.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="p.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="p.Text" xml:space="preserve">
+    <value>P</value>
+  </data>
+  <data name="&gt;&gt;p.Name" xml:space="preserve">
+    <value>p</value>
+  </data>
+  <data name="&gt;&gt;p.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;p.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;p.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="n.Location" type="System.Drawing.Point, System.Drawing">
+    <value>271, 86</value>
+  </data>
+  <data name="n.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="n.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="n.Text" xml:space="preserve">
+    <value>N</value>
+  </data>
+  <data name="&gt;&gt;n.Name" xml:space="preserve">
+    <value>n</value>
+  </data>
+  <data name="&gt;&gt;n.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;n.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;n.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="s.Location" type="System.Drawing.Point, System.Drawing">
+    <value>73, 54</value>
+  </data>
+  <data name="s.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="s.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="s.Text" xml:space="preserve">
+    <value>S</value>
+  </data>
+  <data name="&gt;&gt;s.Name" xml:space="preserve">
+    <value>s</value>
+  </data>
+  <data name="&gt;&gt;s.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;s.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;s.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="b.Location" type="System.Drawing.Point, System.Drawing">
+    <value>227, 86</value>
+  </data>
+  <data name="b.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="b.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="b.Text" xml:space="preserve">
+    <value>B</value>
+  </data>
+  <data name="&gt;&gt;b.Name" xml:space="preserve">
+    <value>b</value>
+  </data>
+  <data name="&gt;&gt;b.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;b.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;b.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="o.Location" type="System.Drawing.Point, System.Drawing">
+    <value>369, 22</value>
+  </data>
+  <data name="o.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="o.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="o.Text" xml:space="preserve">
+    <value>O</value>
+  </data>
+  <data name="&gt;&gt;o.Name" xml:space="preserve">
+    <value>o</value>
+  </data>
+  <data name="&gt;&gt;o.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;o.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;o.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="v.Location" type="System.Drawing.Point, System.Drawing">
+    <value>183, 86</value>
+  </data>
+  <data name="v.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="v.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="v.Text" xml:space="preserve">
+    <value>V</value>
+  </data>
+  <data name="&gt;&gt;v.Name" xml:space="preserve">
+    <value>v</value>
+  </data>
+  <data name="&gt;&gt;v.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;v.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;v.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="d.Location" type="System.Drawing.Point, System.Drawing">
+    <value>117, 54</value>
+  </data>
+  <data name="d.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="d.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="d.Text" xml:space="preserve">
+    <value>D</value>
+  </data>
+  <data name="&gt;&gt;d.Name" xml:space="preserve">
+    <value>d</value>
+  </data>
+  <data name="&gt;&gt;d.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;d.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;d.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="c.Location" type="System.Drawing.Point, System.Drawing">
+    <value>139, 86</value>
+  </data>
+  <data name="c.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="c.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="c.Text" xml:space="preserve">
+    <value>C</value>
+  </data>
+  <data name="&gt;&gt;c.Name" xml:space="preserve">
+    <value>c</value>
+  </data>
+  <data name="&gt;&gt;c.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;c.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;c.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="i.Location" type="System.Drawing.Point, System.Drawing">
+    <value>325, 22</value>
+  </data>
+  <data name="i.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="i.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="i.Text" xml:space="preserve">
+    <value>I</value>
+  </data>
+  <data name="&gt;&gt;i.Name" xml:space="preserve">
+    <value>i</value>
+  </data>
+  <data name="&gt;&gt;i.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;i.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;i.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="x.Location" type="System.Drawing.Point, System.Drawing">
+    <value>95, 86</value>
+  </data>
+  <data name="x.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="x.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="x.Text" xml:space="preserve">
+    <value>X</value>
+  </data>
+  <data name="&gt;&gt;x.Name" xml:space="preserve">
+    <value>x</value>
+  </data>
+  <data name="&gt;&gt;x.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;x.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;x.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="f.Location" type="System.Drawing.Point, System.Drawing">
+    <value>161, 54</value>
+  </data>
+  <data name="f.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="f.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="f.Text" xml:space="preserve">
+    <value>F</value>
+  </data>
+  <data name="&gt;&gt;f.Name" xml:space="preserve">
+    <value>f</value>
+  </data>
+  <data name="&gt;&gt;f.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;f.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;f.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="z.Location" type="System.Drawing.Point, System.Drawing">
+    <value>51, 86</value>
+  </data>
+  <data name="z.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="z.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="z.Text" xml:space="preserve">
+    <value>Z</value>
+  </data>
+  <data name="&gt;&gt;z.Name" xml:space="preserve">
+    <value>z</value>
+  </data>
+  <data name="&gt;&gt;z.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;z.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;z.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="u.Location" type="System.Drawing.Point, System.Drawing">
+    <value>281, 22</value>
+  </data>
+  <data name="u.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="u.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="u.Text" xml:space="preserve">
+    <value>U</value>
+  </data>
+  <data name="&gt;&gt;u.Name" xml:space="preserve">
+    <value>u</value>
+  </data>
+  <data name="&gt;&gt;u.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;u.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;u.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="l.Location" type="System.Drawing.Point, System.Drawing">
+    <value>381, 54</value>
+  </data>
+  <data name="l.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="l.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="l.Text" xml:space="preserve">
+    <value>L</value>
+  </data>
+  <data name="&gt;&gt;l.Name" xml:space="preserve">
+    <value>l</value>
+  </data>
+  <data name="&gt;&gt;l.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;l.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;l.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="y.Location" type="System.Drawing.Point, System.Drawing">
+    <value>237, 22</value>
+  </data>
+  <data name="y.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="y.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="y.Text" xml:space="preserve">
+    <value>Y</value>
+  </data>
+  <data name="&gt;&gt;y.Name" xml:space="preserve">
+    <value>y</value>
+  </data>
+  <data name="&gt;&gt;y.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;y.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;y.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="k.Location" type="System.Drawing.Point, System.Drawing">
+    <value>337, 55</value>
+  </data>
+  <data name="k.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="k.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="k.Text" xml:space="preserve">
+    <value>K</value>
+  </data>
+  <data name="&gt;&gt;k.Name" xml:space="preserve">
+    <value>k</value>
+  </data>
+  <data name="&gt;&gt;k.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;k.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;k.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="t.Location" type="System.Drawing.Point, System.Drawing">
+    <value>193, 22</value>
+  </data>
+  <data name="t.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="t.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="t.Text" xml:space="preserve">
+    <value>T</value>
+  </data>
+  <data name="&gt;&gt;t.Name" xml:space="preserve">
+    <value>t</value>
+  </data>
+  <data name="&gt;&gt;t.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;t.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;t.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="g.Location" type="System.Drawing.Point, System.Drawing">
+    <value>205, 55</value>
+  </data>
+  <data name="g.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="g.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="g.Text" xml:space="preserve">
+    <value>G</value>
+  </data>
+  <data name="&gt;&gt;g.Name" xml:space="preserve">
+    <value>g</value>
+  </data>
+  <data name="&gt;&gt;g.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;g.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;g.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="r.Location" type="System.Drawing.Point, System.Drawing">
+    <value>149, 22</value>
+  </data>
+  <data name="r.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="r.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="r.Text" xml:space="preserve">
+    <value>R</value>
+  </data>
+  <data name="&gt;&gt;r.Name" xml:space="preserve">
+    <value>r</value>
+  </data>
+  <data name="&gt;&gt;r.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;r.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;r.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="h.Location" type="System.Drawing.Point, System.Drawing">
+    <value>249, 55</value>
+  </data>
+  <data name="h.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="h.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="h.Text" xml:space="preserve">
+    <value>H</value>
+  </data>
+  <data name="&gt;&gt;h.Name" xml:space="preserve">
+    <value>h</value>
+  </data>
+  <data name="&gt;&gt;h.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;h.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;h.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="E.Location" type="System.Drawing.Point, System.Drawing">
+    <value>105, 22</value>
+  </data>
+  <data name="E.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="E.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="E.Text" xml:space="preserve">
+    <value>E</value>
+  </data>
+  <data name="&gt;&gt;E.Name" xml:space="preserve">
+    <value>E</value>
+  </data>
+  <data name="&gt;&gt;E.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;E.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;E.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="j.Location" type="System.Drawing.Point, System.Drawing">
+    <value>293, 55</value>
+  </data>
+  <data name="j.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="j.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="j.Text" xml:space="preserve">
+    <value>J</value>
+  </data>
+  <data name="&gt;&gt;j.Name" xml:space="preserve">
+    <value>j</value>
+  </data>
+  <data name="&gt;&gt;j.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;j.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;j.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="w.Location" type="System.Drawing.Point, System.Drawing">
+    <value>61, 22</value>
+  </data>
+  <data name="w.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="w.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="w.Text" xml:space="preserve">
+    <value>W</value>
+  </data>
+  <data name="&gt;&gt;w.Name" xml:space="preserve">
+    <value>w</value>
+  </data>
+  <data name="&gt;&gt;w.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;w.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;w.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="q.Location" type="System.Drawing.Point, System.Drawing">
+    <value>17, 22</value>
+  </data>
+  <data name="q.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 26</value>
+  </data>
+  <data name="q.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="q.Text" xml:space="preserve">
+    <value>Q</value>
+  </data>
+  <data name="&gt;&gt;q.Name" xml:space="preserve">
+    <value>q</value>
+  </data>
+  <data name="&gt;&gt;q.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;q.Parent" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;q.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="Keyboard.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 11.25pt</value>
+  </data>
+  <data name="Keyboard.Location" type="System.Drawing.Point, System.Drawing">
+    <value>165, 305</value>
+  </data>
+  <data name="Keyboard.Size" type="System.Drawing.Size, System.Drawing">
+    <value>463, 126</value>
+  </data>
+  <data name="Keyboard.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="Keyboard.Text" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;Keyboard.Name" xml:space="preserve">
+    <value>Keyboard</value>
+  </data>
+  <data name="&gt;&gt;Keyboard.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Keyboard.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Keyboard.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="PlayerName.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="PlayerName.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe Print, 14.25pt</value>
+  </data>
+  <data name="PlayerName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>307, 9</value>
+  </data>
+  <data name="PlayerName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>117, 33</value>
+  </data>
+  <data name="PlayerName.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="PlayerName.Text" xml:space="preserve">
+    <value>YourName</value>
+  </data>
+  <data name="&gt;&gt;PlayerName.Name" xml:space="preserve">
+    <value>PlayerName</value>
+  </data>
+  <data name="&gt;&gt;PlayerName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PlayerName.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;PlayerName.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>633, 213</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>147, 25</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Room Watchers:</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="WatchersNum.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="WatchersNum.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 14.25pt</value>
+  </data>
+  <data name="WatchersNum.Location" type="System.Drawing.Point, System.Drawing">
+    <value>786, 213</value>
+  </data>
+  <data name="WatchersNum.Size" type="System.Drawing.Size, System.Drawing">
+    <value>22, 25</value>
+  </data>
+  <data name="WatchersNum.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="WatchersNum.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;WatchersNum.Name" xml:space="preserve">
+    <value>WatchersNum</value>
+  </data>
+  <data name="&gt;&gt;WatchersNum.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;WatchersNum.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;WatchersNum.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="$this.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>884, 467</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>GameRoom</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>GameRoom</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

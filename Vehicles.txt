@@ -1,0 +1,20 @@
+Car
+Motorcycle
+Bicycle
+Bus
+Truck
+Scooter
+Boat
+Airplane
+Helicopter
+Train
+Subway
+Skateboard
+Jet Ski
+Segway
+Ambulance
+Fire Truck
+Police Car
+Ambulance
+Tractor
+Sailboat
